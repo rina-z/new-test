@@ -9,8 +9,8 @@
 @font-face { 
     font-family: "GrtskGiga-SemiBold";
     src: 
-         url('../fonts/GrtskGiga-SemiBold.woff') format("woff"), 
-         url('../fonts/GrtskGiga-SemiBold.woff2') format("woff2")
+         url('../fonts/GrtskGiga-Semibold.woff') format("woff"), 
+         url('../fonts/GrtskGiga-Semibold.woff2') format("woff2")
         
 }
 
@@ -18,8 +18,8 @@
 @font-face { 
     font-family: "GrtskGiga-SemiBoldItalic";
     src: 
-         url('../fonts/GrtskGiga-SemiBoldItalic.woff') format("woff"), 
-         url('../fonts/GrtskGiga-SemiBoldItalic.woff2') format("woff2")
+         url('../fonts/GrtskGiga-SemiboldItalic.woff') format("woff"), 
+         url('../fonts/GrtskGiga-SemiboldItalic.woff2') format("woff2")
         
 }
 
